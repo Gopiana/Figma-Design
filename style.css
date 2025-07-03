@@ -13,7 +13,7 @@
   margin-right: 20px;
 }
 .top-left i {
-  color: #18a494;
+  color: #339999;
 }
 .top-right i {
   color: white;
@@ -84,7 +84,7 @@ nav ul li a:hover {
 }
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background-color: #e8f0f2;
+  background-color: #e2f0f3;
   color: white;
 }
 .main-section {
@@ -111,7 +111,7 @@ body {
   color: rgb(194, 190, 190);
 }
 .btn {
-  background-color: #2ec4b6;
+  background-color: #339999;
   color: white;
   padding: 12px 24px;
   border-radius: 30px;
@@ -146,20 +146,20 @@ body {
   display: block;
   margin: 15px 0;
   font-size: 13px;
-  color: #333;
+  color: #2c2a2a;
 }
 .checkbox-container input[type="checkbox"] {
   margin-right: 8px;
 }
 .checkbox-container a {
-  color: #0066cc;
+  color: #3a638c;
   text-decoration: none;
 }
 .checkbox-container a:hover {
   text-decoration: underline;
 }
 button {
-  background-color: #004c97;
+  background-color: #100249;
   color: white;
   padding: 10px 20px;
   border: none;
@@ -217,7 +217,7 @@ button i {
 h3 {
   font-size: 18px;
   margin-bottom: 10px;
-  color: #163b59;
+  color: #0d2538;
 }
 p {
   font-size: 14px;
